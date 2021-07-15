@@ -3,3 +3,4 @@
 3: donkey
 4: snake
 5: dog
+6: camel
