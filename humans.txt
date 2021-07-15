@@ -1,2 +1,4 @@
 1: developer
 2: project manager
+3: CEO
+4: sales rep
